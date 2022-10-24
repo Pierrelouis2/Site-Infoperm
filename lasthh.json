@@ -1,0 +1,225 @@
+[
+ {
+  "Prenom": "Alicia",
+  "Nom": "Lucas",
+  "18h45-19h30": "Bar",
+  "19h30-20h15": "Sécurité",
+  "21h-21h45": "Bar"
+ },
+ {
+  "Prenom": "Antoine",
+  "Nom": "Bredin",
+  "18h45-19h30": "Tireuse ",
+  "20h15-21h": "Bar",
+  "21h-21h45": "Mojjo",
+  "22h": "Rangement HH"
+ },
+ {
+  "Prenom": "Aurelien",
+  "Nom": "Garcia",
+  "18h45-19h30": "Bouffe + jacqueline",
+  "19h30-20h15": "Caisse",
+  "20h15-21h": "Bar"
+ },
+ {
+  "Prenom": "Auriane",
+  "Nom": "Richaud",
+  "17h-18h": "Bouffe + jacqueline",
+  "18h-18h45": "Caisse",
+  "18h45-19h30": "Mojjo",
+  "22h": "Rangement Foyer"
+ },
+ {
+  "Prenom": "Baptiste",
+  "Nom": "Forien",
+  "18h45-19h30": "Bouffe + jacqueline",
+  "20h15-21h": "Bar",
+  "21h-21h45": "Caisse"
+ },
+ {
+  "Prenom": "Clarice",
+  "Nom": "Phu",
+  "21h-21h45": "Bar"
+ },
+ {
+  "Prenom": "Dorian",
+  "Nom": "Bouton",
+  "17h-18h": "Préparation",
+  "22h": "Rangement HH"
+ },
+ {
+  "Prenom": "Emma",
+  "Nom": "Simon",
+  "18h-18h45": "Bar",
+  "20h15-21h": "Tireuse ",
+  "22h": "Rangement HH"
+ },
+ {
+  "Prenom": "Elise",
+  "Nom": "Cassard",
+  "18h45-19h30": "Caisse",
+  "19h30-20h15": "Bar",
+  "20h15-21h": "Bouffe + jacqueline"
+ },
+ {
+  "Prenom": "Hugo",
+  "Nom": "Marta",
+  "18h45-19h30": "Caisse",
+  "19h30-20h15": "Bar",
+  "21h-21h45": "Tireuse "
+ },
+ {
+  "Prenom": "Julie",
+  "Nom": "Dumas",
+  "18h-18h45": "Bar",
+  "18h45-19h30": "Sécurité Jacqueline",
+  "22h": "Rangement HH"
+ },
+ {
+  "Prenom": "Julie",
+  "Nom": "Ludwig",
+  "19h30-20h15": "Bar",
+  "20h15-21h": "Caisse",
+  "21h-21h45": "Sécurité"
+ },
+ {
+  "Prenom": "Léa",
+  "Nom": "Desriac",
+  "18h-18h45": "Bar",
+  "19h30-20h15": "Bouffe + jacqueline",
+  "20h15-21h": "Sécurité Jacqueline"
+ },
+ {
+  "Prenom": "Léa",
+  "Nom": "Colomer",
+  "17h-18h": "Installation caisse",
+  "18h-18h45": "Caisse",
+  "20h15-21h": "Bar",
+  "22h": "Rangement HH"
+ },
+ {
+  "Prenom": "Léo",
+  "Nom": "Gonnet",
+  "18h-18h45": "Bouffe + jacqueline",
+  "18h45-19h30": "Tireuse ",
+  "20h15-21h": "Mojjo"
+ },
+ {
+  "Prenom": "Lisa",
+  "Nom": "Verheyde",
+  "19h30-20h15": "Bar",
+  "20h15-21h": "Caisse",
+  "21h-21h45": "Bouffe + jacqueline"
+ },
+ {
+  "Prenom": "Louis",
+  "Nom": "Cretallaz",
+  "18h-18h45": "Tireuse ",
+  "18h45-19h30": "Caisse",
+  "21h-21h45": "Bar"
+ },
+ {
+  "Prenom": "Lucas",
+  "Nom": "Nguyen",
+  "18h-18h45": "Sécurité Jacqueline",
+  "18h45-19h30": "Bar",
+  "19h30-20h15": "Mojjo",
+  "21h-21h45": "Sécurité"
+ },
+ {
+  "Prenom": "Manu",
+  "Nom": "Suau",
+  "18h-18h45": "Sécurité",
+  "19h30-20h15": "Bouffe + jacqueline",
+  "20h15-21h": "Tireuse "
+ },
+ {
+  "Prenom": "Margot",
+  "Nom": "De Wolf",
+  "17h-18h": "Bouffe + jacqueline",
+  "19h30-20h15": "Sécurité Jacqueline",
+  "21h-21h45": "Tireuse "
+ },
+ {
+  "Prenom": "Marie",
+  "Nom": "Romier",
+  "18h-18h45": "Bar",
+  "19h30-20h15": "Tireuse ",
+  "22h": "Rangement Foyer"
+ },
+ {
+  "Prenom": "Marine",
+  "Nom": "Clop",
+  "18h45-19h30": "Bar",
+  "19h30-20h15": "Caisse",
+  "20h15-21h": "Sécurité"
+ },
+ {
+  "Prenom": "Mathis",
+  "Nom": "Anelli",
+  "18h-18h45": "Sécurité",
+  "19h30-20h15": "Tireuse ",
+  "20h15-21h": "Bar"
+ },
+ {
+  "Prenom": "Morgane",
+  "Nom": "Hayotte",
+  "17h-18h": "Préparation",
+  "22h": "Rangement HH"
+ },
+ {
+  "Prenom": "Noëlie",
+  "Nom": "Chanet",
+  "18h-18h45": "Mojjo",
+  "18h45-19h30": "Bar",
+  "20h15-21h": "Sécurité"
+ },
+ {
+  "Prenom": "Nouné",
+  "Nom": "Kadjoïan",
+  "18h-18h45": "Bouffe + jacqueline",
+  "19h30-20h15": "Caisse",
+  "21h-21h45": "Bar"
+ },
+ {
+  "Prenom": "Pierre",
+  "Nom": "Elmary",
+  "18h45-19h30": "Sécurité",
+  "20h15-21h": "Bar",
+  "21h-21h45": "Caisse"
+ },
+ {
+  "Prenom": "Pierre",
+  "Nom": "Parrat-payan",
+  "18h-18h45": "Tireuse ",
+  "20h15-21h": "Caisse",
+  "21h-21h45": "Bar"
+ },
+ {
+  "Prenom": "Pierre Louis",
+  "Nom": "Telep",
+  "18h-18h45": "Bar",
+  "18h45-19h30": "Sécurité",
+  "21h-21h45": "Bouffe + jacqueline"
+ },
+ {
+  "Prenom": "Thibaut",
+  "Nom": "Weber",
+  "19h30-20h15": "Bar",
+  "20h15-21h": "Bouffe + jacqueline",
+  "21h-21h45": "Sécurité Jacqueline"
+ },
+ {
+  "Prenom": "Thomas",
+  "Nom": "Serrus",
+  "18h45-19h30": "Bar",
+  "19h30-20h15": "Sécurité",
+  "21h-21h45": "Bar"
+ },
+ {
+  "Prenom": "Titouan",
+  "Nom": "Bellevergue",
+  "17h-18h": "Préparation",
+  "22h": "Rangement HH"
+ }
+]

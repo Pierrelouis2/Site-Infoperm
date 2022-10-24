@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Planning</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="filtre.js"></script>
+    <script scr="Book1.json"></script>
+  </head>
+
+  <body>
+    <header>
+      <text><u> Le Planning des tigres boumboum </u></text>
+      <img src="https://cdn.glitch.global/d32017c0-0f09-4e69-922b-b7758660c33a/boum.png?v=1663781885959" alt="logo boum" id="img_boum" draggable="false" />
+    </header>
+
+    <div class="front">
+      <form>
+        <fieldset>
+          <h1>Nom :</h1>
+          <input type="text" id="nom" />
+          <input
+            name="buttonExecute"
+            onclick="filtre()"
+            type="button"
+            value="Valide"
+          />
+        </fieldset>
+      </form>
+
+      <h1>
+        INFO perm: THE LAST HH
+        <span id="infoperm"></span>
+      </h1>
+    </div>
+    <div class="back">
+      <img
+        src="https://cdn.glitch.global/d32017c0-0f09-4e69-922b-b7758660c33a/fond_index.png?v=1663781890674"
+        alt="logo TigerBomb"
+        class="selectOff"
+        draggable="false"
+      />
+    </div>
+  </body>
+</html>
